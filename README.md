@@ -51,7 +51,6 @@ No internet access is given to the private instance directly—only via ALB or B
 
 ## 📁 Folder Structure
 
-- `architecture/`: Contains architecture diagrams.
 - `screenshots/`: Step-by-step screenshots (20 total).
 - `scripts/`: Contains startup scripts & HTML used on EC2.
 
