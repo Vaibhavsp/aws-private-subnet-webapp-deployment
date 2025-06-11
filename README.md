@@ -26,7 +26,7 @@ No internet access is given to the private instance directly—only via ALB or B
 
 ## 🏗️ Architecture Diagram
 
-![Architecture](architecture/architecture-diagram.png)
+![Architecture-Diagram](https://github.com/user-attachments/assets/25c49c5e-9e21-4c1c-a01e-f3827039cd0c)
 
 ---
 
@@ -45,7 +45,7 @@ No internet access is given to the private instance directly—only via ALB or B
 
 ## 🌐 Output Screenshot
 
-![Final Output](screenshots/20-congrats-app-is-running.png)
+![20  Congrats app is running now](https://github.com/user-attachments/assets/c00c02c1-fa6c-440c-87c5-a33d39dd0a96)
 
 ---
 
